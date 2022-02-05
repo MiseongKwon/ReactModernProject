@@ -2,7 +2,7 @@
   "name": "reactmodernproject",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://MiseongKwon.github.io",
+  "homepage": "https://MiseongKwon.github.io/ReactModernProject",
   "main": "index.js",
   "scripts": {
     "dev": "npx webpack-dev-server --mode development",
